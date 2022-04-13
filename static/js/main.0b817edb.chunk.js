@@ -1,2 +1,2 @@
 (this["webpackJsonpreact-native"]=this["webpackJsonpreact-native"]||[]).push([[0],{25:function(t,e,n){t.exports=n(35)},35:function(t,e,n){"use strict";n.r(e);var o=n(38),r=n(24),a=n(0),c=n.n(a);function i(){var t=Object(a.useState)(!1),e=Object(r.a)(t,2),n=e[0],o=e[1];return c.a.createElement("div",{style:{height:"100vh",background:n?"#0000FF":"red"}},c.a.createElement("button",{onClick:function(){o(!0)}},"Show"))}o.a.registerComponent("App",(function(){return i})),o.a.runApplication("App",{rootTag:document.getElementById("root")})}},[[25,1,2]]]);
-//# sourceMappingURL=main.1dcb409a.chunk.js.map
+//# sourceMappingURL=main.0b817edb.chunk.js.map
